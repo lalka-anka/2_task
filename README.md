@@ -11,7 +11,7 @@
 
 Количество секунд можно указать при вызове программы:
 ```bash
->> python3 python3 time.py -off YOUR_OFFSET
+>> python3 time.py -off YOUR_OFFSET
 ```
 Или открыть файл config.txt и вручную ввести количество секунд (по умолчанию в файле config.txt лежит значение 0)
 
